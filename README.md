@@ -16,9 +16,9 @@ It basically a Promise-based HTTP client for making HTTP requests.
 
 ## How to run the project?
 
-1. `get clone https://github.com/devjangid2610/frontend-challenge-by-dev.git` 
+1. `get clone https://github.com/devjangid2610/frontend-challenge.git` 
 
-2. `cd frontend-challenge-by-dev`
+2. `cd frontend-challenge`
 
 3. `yarn install`
 
