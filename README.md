@@ -14,6 +14,8 @@ It basically a Promise-based HTTP client for making HTTP requests.
 
 - And [react-infinite-scroll-component](https://www.npmjs.com/package/react-infinite-scroll-component) to implement the Infinite scroll.
 
+Deploy: https://dev-jangid-app.netlify.app/
+
 ## How to run the project?
 
 1. `git clone https://github.com/devjangid2610/frontend-challenge.git` 
